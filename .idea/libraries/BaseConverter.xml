@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BaseConverter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/BaseConverter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
